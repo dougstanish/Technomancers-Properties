@@ -1,0 +1,14 @@
+{
+  "name": "technomancer's properties",
+  "title": "Technomancer's Handbook Properties",
+  "description": "Adds Technomancer's Handbook weapon properties",
+  "version": "0.1",
+  "author": "dsbookbug",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["technomancerproperties.js"],
+  "manifest": "https://raw.githubusercontent.com/dougstanish/Technomancers-Properties/main/module.json",
+  "download": "https://github.com/dougstanish/Technomancers-Properties/archive/main.zip",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.0"
+}
